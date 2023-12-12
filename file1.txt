@@ -1,4 +1,4 @@
 Hello my commit
 My seconds commit
-add line
+add lines
 my third modification
