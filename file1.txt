@@ -1,5 +1,6 @@
 Hello my commit
 My seconds commit
 add line
+lab4: new line
 my third modification
 lab4: rebase
