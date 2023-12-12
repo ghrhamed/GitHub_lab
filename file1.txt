@@ -5,3 +5,4 @@ lab4: new line
 my third modification
 lab4: rebase
 lab4: cherry-pick 1
+lab4: cherry-pick 2
